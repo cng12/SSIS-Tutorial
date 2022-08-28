@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ExecuteSQLTaskinSSIS", "ExecuteSQLTaskinSSIS\ExecuteSQLTaskinSSIS.dtproj", "{3F738A23-7ECB-4AEA-A7F2-F35283285CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F738A23-7ECB-4AEA-A7F2-F35283285CCE}.Development|Default.ActiveCfg = Development
+		{3F738A23-7ECB-4AEA-A7F2-F35283285CCE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F862DFB-23A7-45FE-AF80-7E06473F49BB}
+	EndGlobalSection
+EndGlobal

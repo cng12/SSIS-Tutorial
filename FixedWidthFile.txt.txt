@@ -1,0 +1,100 @@
+1         Ayabaca                  Peru                                              
+2         Tamiso                   Philippines                                       
+3         Kinshasa                 Democratic Republic of the Congo                  
+4         Nangan                   Taiwan                                            
+5         Sa‘sa‘                   Syria                                             
+6         Independencia            Mexico                                            
+7         Yinhe                    China                                             
+8         Quimbaya                 Colombia                                          
+9         Privlaka                 Croatia                                           
+10        Kawasaki                 Japan                                             
+11        Socorro                  Colombia                                          
+12        Munkedal                 Sweden                                            
+13        Taishan                  China                                             
+14        Shengci                  China                                             
+15        Dunyapur                 Pakistan                                          
+16        Denver                   United States                                     
+17        Camilo Aldao             Argentina                                         
+18        Cigeulis                 Indonesia                                         
+19        Cherëmushki              Russia                                            
+20        Palmar de Varela         Colombia                                          
+21        Marseille                France                                            
+22        Cabatang                 Philippines                                       
+23        Krajanbonjor             Indonesia                                         
+24        Kodra                    Ukraine                                           
+25        Khanabad                 Afghanistan                                       
+26        Kuybyshevskiy Zaton      Russia                                            
+27        Yichun                   China                                             
+28        Ebu                      China                                             
+29        Kawangkoan               Indonesia                                         
+30        Limanowa                 Poland                                            
+31        Pueblo Nuevo             Peru                                              
+32        Jingtou                  China                                             
+33        Riebini                  Latvia                                            
+34        Tawan tawan              Philippines                                       
+35        Zbarazh                  Ukraine                                           
+36        Narutocho-mitsuishi      Japan                                             
+37        Niandou                  China                                             
+38        Cabanaconde              Peru                                              
+39        Villa Elisa              Paraguay                                          
+40        Nanping                  China                                             
+41        Ust’-Koksa               Russia                                            
+42        Sioux Falls              United States                                     
+43        Januszkowice             Poland                                            
+44        Cullhuas                 Peru                                              
+45        Manutapen                Indonesia                                         
+46        Gubskaya                 Russia                                            
+47        Martingança-Gare         Portugal                                          
+48        Mojoagung                Indonesia                                         
+49        Quebrada Larga           Honduras                                          
+50        Ancasti                  Argentina                                         
+51        Radomin                  Poland                                            
+52        Solna                    Sweden                                            
+53        Sundsvall                Sweden                                            
+54        Changtang                China                                             
+55        Uppsala                  Sweden                                            
+56        Auna                     Nigeria                                           
+57        Selce                    Macedonia                                         
+58        Helsingborg              Sweden                                            
+59        Karangpete               Indonesia                                         
+60        Växjö                    Sweden                                            
+61        Pyatovskiy               Russia                                            
+62        Saba Yoi                 Thailand                                          
+63        Stronie                  Poland                                            
+64        Lékhaio                  Greece                                            
+65        Eloúnda                  Greece                                            
+66        Yuto                     Argentina                                         
+67        San Jose                 United States                                     
+68        Slavgorod                Russia                                            
+69        Yongning                 China                                             
+70        Ranao                    Philippines                                       
+71        Limatambo                Peru                                              
+72        Bungsuan                 Philippines                                       
+73        Bitin                    Philippines                                       
+74        Lingdangge               China                                             
+75        Shenglilu                China                                             
+76        Santa Brigida            Philippines                                       
+77        Urrao                    Colombia                                          
+78        Limache                  Chile                                             
+79        Drezdenko                Poland                                            
+80        Sabang                   Philippines                                       
+81        Zhongshan                China                                             
+82        Athabasca                Canada                                            
+83        Barg-e Matal             Afghanistan                                       
+84        Lugovskoy                Russia                                            
+85        Pyra                     Russia                                            
+86        Cabaret                  Haiti                                             
+87        Kaiaf                    Gambia                                            
+88        Sagasa                   Philippines                                       
+89        Shangshuai               China                                             
+90        Casais Baleal            Portugal                                          
+91        Wohyn                    Poland                                            
+92        El Corozo                Venezuela                                         
+93        Krasnapollye             Belarus                                           
+94        Cervené Pecky            Czech Republic                                    
+95        Fu’an                    China                                             
+96        Stockholm                Sweden                                            
+97        Ayaviri                  Peru                                              
+98        Sacramento               United States                                     
+99        Kérkyra                  Greece                                            
+100       Tagog                    Indonesia                                         

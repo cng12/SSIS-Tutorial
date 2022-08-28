@@ -1,0 +1,4 @@
+StudentID,StudentName,Marks,Gender
+1, ALINE,76, Female
+2, BARAKA,90, Male
+3, SHARIF,98, Male
